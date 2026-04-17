@@ -128,7 +128,7 @@ Performed statistical tests to validate relationships:
 
 ## 👨‍💻 Team Members
 - [Drashti](https://github.com/username1)
-- [Manasi](https://github.com/username2)
+- [Manasi](https://github.com/shindemanasi47-sketch)
 - [Pritesh](https://github.com/username3)
 - [Varad](https://github.com/Varad2k03)
 
